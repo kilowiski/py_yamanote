@@ -1,7 +1,7 @@
 # py_yamanote
 YAMANOTE LINE
-USE THIS DATA https://github.com/piuccio/open-data-jp-railway-stations.git
 
 CREDITS
+* DATA FROM https://github.com/piuccio/open-data-jp-railway-stations.git
 * Kidox#2322
 * purodijipeko#4848
